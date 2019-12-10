@@ -17,6 +17,14 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "chat-l": [
+        "dist/chat-l"
+      ],
+      "chat-l/*": [
+        "dist/chat-l/*"
+      ]
+    }
   }
 }

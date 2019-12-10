@@ -60,6 +60,12 @@
       true,
       "single"
     ],
+    "component-selector": [
+      true,
+      "element",
+      ["app", "ezo"],
+      "kebab-case"
+    ],
     "trailing-comma": false,
     "no-output-on-prefix": true,
     "use-input-property-decorator": true,
